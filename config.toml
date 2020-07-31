@@ -1,11 +1,12 @@
-baseurl = "https://serene-kare-14a098.netlify.app/"
-title = "Truong-Phat Nguyen"
+baseurl = "http://localhost:1313/"
+title = "Patrick phat"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
+  titleCutting = false
+  shortTitle = "patrick-phat"
 
   [[params.navlinks]]
   name = "about/"
@@ -18,3 +19,7 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
+
+  [[params.navlinks]]
+  name = "list100/"
+  url = "list100/"
