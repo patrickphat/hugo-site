@@ -7,6 +7,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
   shortTitle = "patrick-phat"
+  twitter = "yo"
+  linkedin = "tphat"
 
   [[params.navlinks]]
   name = "about/"
