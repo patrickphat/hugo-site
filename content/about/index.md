@@ -14,3 +14,5 @@ In 2020, I joined [Cinnamon AI](https://cinnamon.is/en/)'s bootcamp and luckily 
 During time in college, I'm a Vice President of [Open English Club](https://www.facebook.com/oeclub.uit) - a public university English language club, hosting a lot of events to help university enhance engagement and their English skills.
 
 I also founded the [VietCS community](https://www.vietcs.org/), the blogging platform for Vietnamese Computer Science enthusiasts.
+
+You can reach me through my [linkedin](https://www.linkedin.com/in/tphat/), my [github](https://github.com/patrickphatnguyen) or my [facebook](https://www.facebook.com/patricknguyen17/).
