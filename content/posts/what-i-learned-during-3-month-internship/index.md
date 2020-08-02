@@ -23,7 +23,7 @@ Instead of pretending that you know everything, raising questions are an extreme
 
 
 ## 4. Make a fast and good decision 
-I felt into an overthinking trap that takes me a lot of time finding optimal solutions for every problem I encountered. Solving problems in the industry can be a whole lot different compared to their counterparts in academia. In academia, you usually want optimal solutions, but in industry, you have more things to optimize: time, cost, computing resources, etc. When optimal solutions take time, find a good solution instead.
+I felt into an overthinking trap that takes me a lot of time finding optimal solutions for every problem I encountered. Solving problems in the industry can be a whole lot different compared to their counterparts in academia. In academia, you usually want optimal algorithms, state-of-the-art result, but in industry, you have more things to optimize: time, cost, computing resources, etc. When optimal solutions take time, find a good solution instead.
 
 
 ## 5. Take extreme ownership 
