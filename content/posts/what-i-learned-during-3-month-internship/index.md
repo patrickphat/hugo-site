@@ -8,7 +8,7 @@ Just like any other student who take pride in their first internship, I am no ex
 
 During my years in college as a computer science undergraduate, I actively applied for a lot of different part-time jobs like English tutoring, programming tutoring, etc. just to get a sense of what working is like, to know that if I'm any bit useful to this world, finding a cure for my teenage crisis (lol). In the last 6-month, I have joined an AI Bootcamp from a well-known AI company and luckily landed on an internship offer, opening a door for a lot of opportunities for leveling up myself. 
 
-For me, the internship is a good place to have a taste of what working in the industry really feels like, or simply just a certification for "Hey, now you are still working on your dream, but in a more professional way!". In short, the internship can be very limited to what things you can learn, it depends on how you observe and you want to gain from it. Aside from strengthing your hard/expertise skills, there's are more rooms to learn than you can ever think of :D 
+For me, the internship is a good place to have a taste of what working in the industry really feels like, or simply just a certification for "Hey, now you are still working on your dream, but in a more professional way!". In short, the internship can be very limited to what things you can learn, it depends on how you observe and you want to gain from it. Aside from strengthing your hard/expertise skills, there are more rooms to learn than you can ever think of :D 
 
 These are key things that I have learned from the internship, I think it's quite simple and straightforward, I want to keep it short. 
 
