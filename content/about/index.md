@@ -7,7 +7,7 @@ I'm Patrick Phat, an AI enthusiast, an optimist and a teamplayer. I'm currently 
 
 Previously, at the end of 2018, I had my first teaching job at [Topica Native](https://topicanative.edu.vn/) as a English Tutor, the job let me connect and help thousands of people from all walks of life improve their English professionally.
 
-Throughout 2019, I worked at [HasBrain](http://www.hasbrain.com/) as a programming mentor. I founded 2 "Introduction to Python courses" and teaching assist to a data scientist in "Introduction to Data Analytics" course, helping people from diverse non-tech backgrounds break into programming.
+Throughout 2019, I worked at [HasBrain](http://www.hasbrain.com/) as a programming mentor. I founded 2 "Introduction to Python" courses and teaching assist to a data scientist in "Introduction to Data Analytics" course, helping people from diverse non-tech backgrounds break into programming.
 
 In 2020, I joined [Cinnamon AI](https://cinnamon.is/en/)'s bootcamp and luckily got my first internship at this company as an AI Research Engineer.
 
