@@ -1,25 +1,26 @@
 baseurl = "https://patrickphat.com/"
 title = "Patrick phat"
-theme = "hugo-theme-console"
+theme = "hugo-tania"
+paginate: 6
 languageCode = "en-us"
+params:
+  titleEmoji: '😎'
+  socialOptions:
+    github: 
+    twitter: 
 
-[params]
-  # Cutting off the page title to two chars for mobile (console-demo -> co)
-  titleCutting = true
-  shortTitle = "patrick-phat"
+menu:
+  header:
+    - name: Articles
+      url: "/articles/"
+  footer:
+    - name: RSS
+      url: "/index.xml"
 
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
-
-  [[params.navlinks]]
-  name = "posts/"
-  url = "posts/"
-  
-  [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
-
-  [[params.navlinks]]
-  name = "list100/"
-  url = "list100/"
+markup:
+  highlight:
+    noClasses: false
+    lineNos: true
+  goldmark:
+    renderer:
+      unsafe: true
